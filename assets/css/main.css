@@ -243,11 +243,11 @@ input, select, textarea {
 
 /* Container */
 
-	.container {
-		margin: 0 auto;
-		max-width: calc(100% - 4em);
-		width: 100%;
-	}
+.container {
+	margin: 0 auto;
+	max-width: calc(100% - 4em);
+	width: 100%;
+}
 
 		.container.xsmall {
 			width: 25%;
